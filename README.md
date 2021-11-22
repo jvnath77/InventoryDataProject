@@ -45,7 +45,7 @@ MySQL is an open-source relational database management system and MySQL is the d
 
 ------------
 
-**Sucess Test Suite:**
+**Success Test Suite:**
 
 1.Click on browsefile and upload the given data.tsv to start a run. 
 
