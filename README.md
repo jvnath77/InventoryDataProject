@@ -28,6 +28,7 @@ Anaconda is a Python library for scientific computing, that aims to simplify pac
 Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. In just a few minutes you can build and deploy powerful data apps.
 
 - Go to anaconda prompt and install the packages that are needed
+
             pip install mysql-connector-python
             pip install streamlit
 			
@@ -36,9 +37,11 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 MySQL is an open-source relational database management system and MySQL is the de-facto standard database system for web sites with HUGE volumes of both data and end-users (like Facebook, Twitter, and Wikipedia).Use the link to download and install mysql https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/.
 
 - Create database using python
+- 
            python <location of db python app>
 
 - Run your application using anaconda prompt
+	
           streamlit run <location of main python app>
 
 **Test Cases:**
